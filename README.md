@@ -1,4 +1,4 @@
-# Dicee Challeng
+# Dicee Challenge
 
 Welcome to the exciting world of the Dicee game! 🎲
 

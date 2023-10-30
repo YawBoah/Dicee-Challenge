@@ -8,6 +8,7 @@ Do you have what it takes to roll the perfect dice and emerge as the ultimate ch
 
 ![Screenshot 2023-10-30 074942](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/841e1c17-c302-4563-b888-38e7e296dfab)
 
+![Screenshot 2023-10-30 074932](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/6c2ca7f9-e5d8-4b68-a165-6897c475846e)
 
 ## How to Play
 

@@ -40,4 +40,4 @@ Prepare for an exciting adventure in the world of Dicee and prove your gaming pr
 
 ---
 
-Please add a screenshot of the game to the README (replace "screenshot.png" with the actual image file if you have one). Feel free to further customize and expand on this README as you like!
+Feel free to further customize and expand on this README as you like!

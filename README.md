@@ -4,7 +4,8 @@ Welcome to the exciting world of the Dicee game! 🎲
 
 Do you have what it takes to roll the perfect dice and emerge as the ultimate champion? Test your luck and challenge your friends in this fun and engaging game.
 
-![Dicee Game Screenshot](screenshot.png)
+![Screenshot 2023-10-30 074954](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/d9145fd9-ce4c-44f6-b34a-bedaeb8f87bf)
+
 
 ## How to Play
 

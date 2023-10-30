@@ -4,11 +4,11 @@ Welcome to the exciting world of the Dicee game! 🎲
 
 Do you have what it takes to roll the perfect dice and emerge as the ultimate champion? Test your luck and challenge your friends in this fun and engaging game.
 
-![Screenshot 2023-10-30 074954](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/d9145fd9-ce4c-44f6-b34a-bedaeb8f87bf)
+![Screenshot 2023-10-30 074954](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/cb82ab49-dfd1-4735-8e34-e6c1f58c8976)
 
-![Screenshot 2023-10-30 074942](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/841e1c17-c302-4563-b888-38e7e296dfab)
+![Screenshot 2023-10-30 074942](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/3349da87-15e4-4842-8d57-812a32516bc6)
 
-![Screenshot 2023-10-30 074932](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/6c2ca7f9-e5d8-4b68-a165-6897c475846e)
+![Screenshot 2023-10-30 074932](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/c8a200a2-0e7c-44bb-aedb-3ab16eb3c173)
 
 ## How to Play
 

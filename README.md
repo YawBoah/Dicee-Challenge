@@ -26,7 +26,6 @@ This exhilarating game was inspired by Dr. Angela Yu, the brilliant instructor b
 Are you ready to experience the thrill of the Dicee game? Roll the dice, challenge your friends, and let the games begin!
 
 ## Technologies Used
-
 - **HTML**: For structuring the web page.
 - **CSS**: For adding style and flair to the game elements.
 - **JavaScript**: For creating the game logic and rolling the dice.

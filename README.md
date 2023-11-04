@@ -1,5 +1,5 @@
 # Dicee Challenge
-Welcome to the exciting world of the Dicee game! 🎲
+Welcome to the exciting world of the Dicee game!🎲
 
 Do you have what it takes to roll the perfect dice and emerge as the ultimate champion? Test your luck and challenge your friends in this fun and engaging game.
 

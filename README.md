@@ -17,7 +17,6 @@ Do you have what it takes to roll the perfect dice and emerge as the ultimate ch
 3. **Declare the Winner**: The game will declare the outcome! Will "Player 1" win, or will "Player 2" emerge victorious? Or could it be a thrilling draw?
 
 ## Acknowledgements
-
 This exhilarating game was inspired by Dr. Angela Yu, the brilliant instructor behind "[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)" on Udemy. Thank you for the incredible knowledge and inspiration!
 
 ## Game Rules

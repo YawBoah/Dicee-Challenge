@@ -9,9 +9,9 @@ Do you have what it takes to roll the perfect dice and emerge as the ultimate ch
 ![Screenshot 2023-10-30 074932](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/c8a200a2-0e7c-44bb-aedb-3ab16eb3c173)
 
 ## 🎮How to Play
-1. **Roll the Dice**: Open the "index.html" file in your web browser and click on the "Refresh Me" button to roll the dice.
+1. **Roll the Dice**: Fire up the "index.html" in your web browser and click the "Refresh Me" button to roll the dice.
 2. **The Showdown**: Two dice images will appear, one for "Player 1" and one for "Player 2."
-3. **Declare the Winner**: The game will declare the outcome! Will "Player 1" win, or will "Player 2" emerge victorious? Or could it be a thrilling draw?
+3. **Declare the Winner**: Brace yourself as the game unveils the outcome! Will "Player 1" secure victory, or will "Player 2" emerge as the champion? Or could it be an electrifying draw?
 
 ## Acknowledgements
 This exhilarating game was inspired by Dr. Angela Yu, the brilliant instructor behind "[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)" on Udemy. Thank you for the incredible knowledge and inspiration!

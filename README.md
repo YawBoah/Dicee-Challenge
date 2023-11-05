@@ -14,7 +14,7 @@ Do you have what it takes to roll the perfect dice and emerge as the ultimate ch
 3. **Declare the Winner**: Brace yourself as the game unveils the outcome! Will "Player 1" secure victory, or will "Player 2" emerge as the champion? Or could it be an electrifying draw?
 
 ## 🙏Acknowledgements
-This exhilarating game was inspired by Dr. Angela Yu, the brilliant instructor behind "[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)" on Udemy. Thank you for the incredible knowledge and inspiration!
+This exhilarating game was inspired by Dr. Angela Yu, the brilliant instructor and mastermind behind behind "[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)" on Udemy. Thank you for the incredible knowledge and inspiration!
 
 ## Game Rules
 - Each player possesses a unique virtual dice.

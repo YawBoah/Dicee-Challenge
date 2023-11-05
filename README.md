@@ -28,7 +28,7 @@ Are you ready to experience the thrill of the Dicee game? Roll the dice, challen
 - **HTML**: Crafting the framework of the web page.
 - **CSS**: Sprinkling style and pizzazz on game elements.
 - **JavaScript**: Engineering game logic and dice rolls.
-- **Google Fonts**: To bring a touch of sophistication with custom fonts.
+- **Google Fonts**: Elevating sophistication with custom fonts..
 
 Prepare for an exciting adventure in the world of Dicee and prove your gaming prowess. Enjoy, and may the best roller win!
 

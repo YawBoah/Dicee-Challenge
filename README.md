@@ -8,7 +8,7 @@ Do you have what it takes to roll the perfect dice and emerge as the ultimate ch
 
 ![Screenshot 2023-10-30 074932](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/c8a200a2-0e7c-44bb-aedb-3ab16eb3c173)
 
-## How to Play
+## 🎮How to Play
 1. **Roll the Dice**: Open the "index.html" file in your web browser and click on the "Refresh Me" button to roll the dice.
 2. **The Showdown**: Two dice images will appear, one for "Player 1" and one for "Player 2."
 3. **Declare the Winner**: The game will declare the outcome! Will "Player 1" win, or will "Player 2" emerge victorious? Or could it be a thrilling draw?

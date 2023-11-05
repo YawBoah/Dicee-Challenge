@@ -1,4 +1,4 @@
-# Dicee Challenge
+# 🎲 Dicee Challenge 🎲
 Welcome to the thrilling world of the Dicee game! 🎲🎉
 
 Do you have what it takes to roll the perfect dice and emerge as the ultimate champion? Test your luck and challenge your friends in this exciting and engaging game.

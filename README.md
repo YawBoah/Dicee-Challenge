@@ -16,7 +16,7 @@ Do you have what it takes to roll the perfect dice and emerge as the ultimate ch
 ## 🙏Acknowledgements
 This exhilarating game was inspired by Dr. Angela Yu, the brilliant instructor and mastermind behind behind "[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)" on Udemy. Thank you for the incredible knowledge and igniting our inspiration!
 
-## Game Rules  
+## Game Rules ⚽ 
 - Each player possesses a unique virtual dice.
 - A click of the "Refresh Me" button generates random dice rolls.
 - The player with the highest number on their dice is crowned the winner.

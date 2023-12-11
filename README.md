@@ -1,5 +1,5 @@
 # 🎲 Dicee Challenge 🎲
-Welcome to the thrilling world of the Dicee game! 🎲🎉
+Welcome to the thrilling world of the Dicee game! 🎮🎲🎉
 
 Do you have what it takes to roll the perfect dice and emerge as the ultimate champion? Test your luck and challenge your friends👪 in this exciting and engaging game 🎮.
 ![Screenshot 2023-10-30 074954](https://github.com/YawBoah/Dicee-Challenge/assets/126890146/cb82ab49-dfd1-4735-8e34-e6c1f58c8976)
